@@ -1,4 +1,4 @@
-Messaging interoperability interface
+Security interface interoperability
 =================================================
 
-Interface for ensuring interoperability of messaging on PHP
+Interface for ensuring interoperability of security on PHP
