@@ -1,0 +1,16 @@
+{
+    "name": "interop-phpobjects/lenient-security",
+    "type": "library",
+    "description": "security interface interoperability",
+    "keywords": ["security","interop","interoperability"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Interop\\Lenient\\Security\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
